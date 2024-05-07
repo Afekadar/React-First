@@ -4,7 +4,7 @@ import "./page.css";
 export const Website = () => {
   return (
     <div>
-      <Border>This is my Webpage wowwwwwwwwww</Border>
+      <Border>This is my Webpage</Border>
       <div>Some content</div>
     </div>
   );
